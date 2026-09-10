@@ -1,29 +1,59 @@
-# 💻 My Project
+# 💻 Hi, I'm Dilbaroy 👋
 
-Welcome to my project! 🚀
+### 🌱 Frontend Developer in progress
 
-## 📌 About
+✨ Learning to turn creative ideas into beautiful websites.
 
-This project was created to practice my programming skills and learn new technologies.
+---
 
-## 🛠 Technologies
+## 🌸 About Me
 
-- HTML
-- CSS
+- 💻 Learning Frontend Development
+- 🌱 Currently learning HTML, CSS & JavaScript
+- 🎨 Love clean and aesthetic web design
+- 🚀 Building projects and improving every day
+- 🇺🇿 Uzbekistan
+
+---
+
+## 🛠️ My Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- HTML & Semantic Web
+- CSS & Responsive Design
 - JavaScript
+- Git & GitHub
+- Modern Web Development
 
-## ✨ Features
+---
 
-- Modern and responsive design
-- Simple and user-friendly interface
-- Clean code structure
+## 🚀 My Goals
 
-## 📷 Preview
+✨ Become a professional Frontend Developer  
+💻 Build beautiful and useful websites  
+🌐 Create my own portfolio  
+📚 Keep learning new technologies  
+🔥 Turn ideas into real projects
 
-![Project Preview](./images/preview.png)
+---
 
-## 🚀 Getting Started
+## 💙 My Developer Journey
 
-1. Clone this repository:
-```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
+```text
+Learning       →  Building       →  Improving       →  Creating
+     🌱               💻                🚀                ✨
+
+📊 GitHub Stats
+
+🌙 Thanks for visiting my profile!
+
+⭐ Keep learning. Keep building. Keep growing.
+
+
