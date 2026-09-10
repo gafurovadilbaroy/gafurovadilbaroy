@@ -1,10 +1,3 @@
-<img src="./banner.png" width="100%" />
-
-<h1 align="center">Hi, I'm Dilbaroy 👋</h1>
-
-<p align="center">
-  💻 Frontend Developer in progress
-</p>
 
 # 💻 Hi, I'm Dilbaroy 👋
 
