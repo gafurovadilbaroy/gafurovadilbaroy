@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./ChatGPT Image 10сент. 2026г., 22_3749.png" width="100%" />
+</p>
 # 💻 Hi, I'm Dilbaroy 👋
 
 ### 🌱 Frontend Developer in progress
